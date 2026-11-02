@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Experimental artifacts
+results/
+*.pcap
+*.log
+*.pid
+
+# Local environments and editor files
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Generated reports and captures
+output/
+figures/
